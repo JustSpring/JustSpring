@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SSL/TLS VPN project.<br>⚡ I'm a 17 year old high school student from Rehovot, Israel.
+🔭 I’m currently working on SSL/TLS VPN project.<br>⚡ I'm a 18 year old high school student from Rehovot, Israel.
 
 
 ## 🌐 Socials:
